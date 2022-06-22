@@ -334,14 +334,17 @@ hr {
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("../images/run1.PNG");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 570px;
+    width: 100%;
 }
 
 .signup-form {
-    margin: 150px 10% ;
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color:rgba
 }
 
 
